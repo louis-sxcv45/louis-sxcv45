@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/EDG5N5ObzhgAAAAi/cute.gif"  />
+  <img alt="Profile Image" src="img\profile-image.jpg"  />
 </div>
 
 ###
